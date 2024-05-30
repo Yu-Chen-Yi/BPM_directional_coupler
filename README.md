@@ -50,4 +50,10 @@ Directional_coupler = Directional_coupler.Field_topView();  % Display top view o
 ```matlab
 Directional_coupler = Directional_coupler.Coupling_efficiency(); % Display the coupling efficiency
 ```
-##
+## Demonstrate
+![image](https://github.com/Yu-Chen-Yi/BPM_directional_coupler/assets/64921305/412bc71d-315d-4469-a412-bd83da9c0fef)
+![image](https://github.com/Yu-Chen-Yi/BPM_directional_coupler/assets/64921305/d33f73ec-b49f-48fe-a794-63d382f7d70a)
+![image](https://github.com/Yu-Chen-Yi/BPM_directional_coupler/assets/64921305/534b1759-7d5f-4fc6-b1ff-f4c0d2104d84)
+![image](https://github.com/Yu-Chen-Yi/BPM_directional_coupler/assets/64921305/e14020dd-7866-4fb4-b1b6-1ed1dff64833)
+
+
